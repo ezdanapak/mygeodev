@@ -4,3 +4,16 @@ theme:
   name: material
 nav:
   - Home: index.md
+  - Changelog: Changelog.md
+  - Contributing: Contributing.md
+  - FAQ: FAQ.md
+  - Installation: Installation.md
+  - Usage: Usage.md
+  - Examples:
+    - Intro: Examples/intro.md
+    - Folium: Examples/Folium.md
+    - Map: Examples/Map.md
+    - Split map: Examples/Split_map.md
+  - API Reference: API.md
+
+      
