@@ -6,5 +6,3 @@ Documentation: https://github.com/ezdanapak/mygeodev
 Features
 Create interactive maps with minimal lines of code
 Great tool for GIS
-hellllo worldd
-Calculate MAPE

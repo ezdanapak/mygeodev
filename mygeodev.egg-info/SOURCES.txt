@@ -1,0 +1,11 @@
+README.md
+setup.py
+mygeodev/Foliumap.py
+mygeodev/__init__.py
+mygeodev/common.py
+mygeodev/mygeodev.py
+mygeodev.egg-info/PKG-INFO
+mygeodev.egg-info/SOURCES.txt
+mygeodev.egg-info/dependency_links.txt
+mygeodev.egg-info/requires.txt
+mygeodev.egg-info/top_level.txt
