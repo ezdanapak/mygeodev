@@ -5,21 +5,21 @@ This is a geospatial development project. Documentation will be available here.
 
 
 
+[![image](https://img.shields.io/pypi/v/geodev.svg)](https://pypi.python.org/pypi/geodev)
 
-# Welcome to MkDocs
+**A python package for geospatial analysis and mapping**
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+-   Free software: MIT License
+-   Documentation: <https://geodev .gishub. org> დასაკორექტირებელია
 
-## Commands
+## Features
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+-   Create interactive maps
+-   Process geospatial data
 
-## Project layout
+## Usage
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+```python
+import mygeodev
+import os
+```
